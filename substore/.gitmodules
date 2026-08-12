@@ -1,0 +1,6 @@
+[submodule "sub-store-workers"]
+	path = sub-store-workers
+	url = https://github.com/Yu9191/sub-store-workers.git
+[submodule "Sub-Store"]
+	path = Sub-Store
+	url = https://github.com/sub-store-org/Sub-Store.git
